@@ -13,6 +13,10 @@
 I love to solve problems and my arch nemesis is <a href="https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm" target="_blank">Dijkstra's Algorithm</a>.</td>
   </tr>
   <tr>
+  <td colspan="2">2022 - studying to become a Game Developer
+  </td>
+  </tr>
+  <tr>
   <td colspan="2">
     <a href="http://enigm4tik.github.io">enigm4tik.github.io</a>
     </td>
