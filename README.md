@@ -14,7 +14,7 @@ I love to solve problems and my arch nemesis is <a href="https://en.wikipedia.or
   </tr>
   <tr>
   <td colspan="2">
-    <a href="http://enigm4tik.github.io">enigm4tik.github.io</a>
+    <a href="https://frogs-are-cool.itch.io/">Play my games</a>
     </td>
   </tr>
 </table>
